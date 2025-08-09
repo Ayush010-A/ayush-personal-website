@@ -152,7 +152,7 @@ export default function Page() {
                                     <Linkedin className="h-4 w-4" />
                                 </Button>
                             </Link>
-                            <Link aria-label="Email" href="mailto:sangharshbgh@gmail.com">
+                            <Link aria-label="Email" href="mailto:ayushmahapatra2017@gmail.com">
                                 <Button size="sm" className="gap-2 bg-zinc-900 text-white transition-colors hover:bg-black">
                                     <Mail className="h-4 w-4" />
                                     Email
@@ -202,22 +202,22 @@ export default function Page() {
                                 <div className="space-y-3">
                                     <div className="flex items-center gap-2 text-sm text-zinc-600">
                                         <MapPin className="h-4 w-4" />
-                                        <span>Bangalore, India</span>
+                                        <span>Bargarh, India</span>
                                     </div>
                                     <div className="flex items-center gap-2 text-sm text-zinc-600">
                                         <Briefcase className="h-4 w-4" />
-                                        <span>Associate Staff Engineer at Nagarro</span>
+                                        <span>Pluripotent</span>
                                     </div>
                                     <div className="flex items-center gap-2 text-sm text-zinc-600">
                                         <Mail className="h-4 w-4" />
                                         <Link className="hover:text-zinc-900 transition-colors" href="mailto:sangharshbgh@gmail.com">
-                                            sangharshbgh@gmail.com
+                                            ayushmahapatra2017@gmail.com
                                         </Link>
                                     </div>
                                     <div className="flex items-center gap-2 text-sm text-zinc-600">
                                         <GithubIcon className="h-4 w-4" />
-                                        <Link className="hover:text-zinc-900 transition-colors" href="https://github.com/sangharshseth">
-                                            github.com/sangharshseth
+                                        <Link className="hover:text-zinc-900 transition-colors" href="https://github.com/Ayush010-A">
+                                            github.com/Ayush010-A
                                         </Link>
                                     </div>
                                 </div>
