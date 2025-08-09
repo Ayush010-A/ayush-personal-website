@@ -169,7 +169,7 @@ export default function Page() {
                             <div className="flex flex-col gap-6">
                                 <div>
                                     <h1 className={cn("text-3xl font-semibold leading-tight tracking-tight md:text-5xl", plexSerif.className)}>
-                                        Sangharsh Seth
+                                        Ayushman Mahapatra
                                     </h1>
                                     <p className="mt-2 text-zinc-600">
                                         Senior Backend Engineer specializing in distributed systems, event-driven architectures, and scalable microservices. Experienced in building resilient systems with AWS, Node.js, and Go.
