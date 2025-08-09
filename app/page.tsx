@@ -142,7 +142,7 @@ export default function Page() {
                             </a>
                         </nav>
                         <div className="flex items-center gap-2">
-                            <Link aria-label="GitHub" href="https://github.com/sangharshseth">
+                            <Link aria-label="GitHub" href="https://github.com/Ayush010-A">
                                 <Button variant="outline" size="icon" className="h-8 w-8 border-zinc-300 transition-colors hover:border-zinc-900">
                                     <GithubIcon className="h-4 w-4" />
                                 </Button>
