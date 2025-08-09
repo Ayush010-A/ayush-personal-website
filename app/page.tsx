@@ -393,13 +393,11 @@ export default function Page() {
                                 <div className="space-y-6">
                                     {[
                                         {
-                                            role: "Associate Staff Engineer",
-                                            org: "Nagarro",
-                                            years: "2023 — Present",
+                                            role: "Table Tennis Player",
+                                            org: "Odisha",
+                                            years: "2024 — Present",
                                             bullets: [
-                                                "Led development of pTremor, improving system stability by 25%",
-                                                "Architected event-driven microservices with RabbitMQ and NestJS",
-                                                "Mentored 3 junior developers while maintaining 98% delivery rate"
+                                                "Ambidextrous"
                                             ],
                                         },
                                         {
@@ -494,16 +492,16 @@ export default function Page() {
                                     </p>
                                 </div>
                                 <div className="flex flex-wrap items-center gap-3">
-                                    <Link href="mailto:sangharshbgh@gmail.com">
+                                    <Link href="mailto:ayushmahapatra2017@gmail.com">
                                         <Button className="gap-2 bg-zinc-900 text-white transition-colors hover:bg-black group">
                                             <Mail className="h-4 w-4 transition-transform group-hover:-translate-y-0.5" />
-                                            sangharshbgh@gmail.com
+                                            ayushmahapatra2017@gmail.com
                                         </Button>
                                     </Link>
-                                    <Link href="tel:+918018208166">
+                                    <Link href="tel:+916372102759">
                                         <Button variant="outline" className="gap-2 border-zinc-300 transition-colors hover:border-zinc-900 group">
                                             <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
-                                            +91 8018208166
+                                            +91 6372102759
                                         </Button>
                                     </Link>
                                 </div>
