@@ -172,7 +172,7 @@ export default function Page() {
                                         Ayushman Mahapatra
                                     </h1>
                                     <p className="mt-2 text-zinc-600">
-                                    Medico | Sports Enthusiast | Musician | Aspiring Web Developer | Ambidextrous
+                                    Medico | Sports Enthusiast | Musician | Web Developer | Ambidextrous
                                     </p>
                                 </div>
 
