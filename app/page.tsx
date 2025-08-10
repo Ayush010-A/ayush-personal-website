@@ -433,7 +433,11 @@ export default function Page() {
                                         },
                                         { 
                                             role:"A.E.Mission English Medium School,ICSE,Bargarh",
-                                            org:"Nursey-KGIII"
+                                            org:"Nursey-KGIII",
+                                            years:"2006-2009",
+                                            bullets:[
+                                                ""
+                                                ],
                                     },
                                     ].map((job) => (
                                         <div key={job.role} className="rounded-sm border border-zinc-200">
