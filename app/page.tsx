@@ -257,7 +257,7 @@ export default function Page() {
                                         }}
                                     />
                                     <Image
-                                        src="/IMG.jpg"
+                                        src="/img3.jpg"
                                         alt="Portrait of the backend engineer"
                                         width={900}
                                         height={680}
