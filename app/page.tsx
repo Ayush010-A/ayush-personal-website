@@ -401,13 +401,13 @@ export default function Page() {
                                             ],
                                         },
                                         {
-                                            role: "Senior Backend Engineer",
-                                            org: "Autovert Technologies",
-                                            years: "2023",
+                                            role: "Vikash Higher Secondary School,Bargarh",
+                                            org: "XI-XII",
+                                            years: "2019-2021",
                                             bullets: [
-                                                "Implemented core product APIs using AWS Lambda and NodeJS",
-                                                "Orchestrated product flow using AWS Step Functions",
-                                                "Led CI/CD implementation using AWS CDK"
+                                                "PCMB",
+                                                "",
+                                                ""
                                             ],
                                         },
                                         {
