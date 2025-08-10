@@ -172,7 +172,7 @@ export default function Page() {
                                         Ayushman Mahapatra
                                     </h1>
                                     <p className="mt-2 text-zinc-600">
-                                        Senior Backend Engineer specializing in distributed systems, event-driven architectures, and scalable microservices. Experienced in building resilient systems with AWS, Node.js, and Go.
+                                    Medico | Sports Enthusiast | Musician | Aspiring Web Developer | Ambidextrous
                                     </p>
                                 </div>
 
