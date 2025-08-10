@@ -406,30 +406,36 @@ export default function Page() {
                                             years: "2019-2021",
                                             bullets: [
                                                 "PCMB",
-                                                "",
+                                                "92.33% in CHSE boards-XII",
                                                 ""
                                             ],
                                         },
                                         {
-                                            role: "Backend Engineer",
-                                            org: "Niveus Solutions",
-                                            years: "2022",
+                                            role: "Saraswati Shishu Vidya Mandir,Odia Bibhag,Bargarh",
+                                            org: "II-X",
+                                            years: "2010-2019",
                                             bullets: [
-                                                "Built RESTful APIs in Golang using Gin framework",
-                                                "Deployed microservices using GCP (GCR and GKE)",
-                                                "Designed database schema for microservices migration"
+                                                "Scholarship in V-2013",
+                                                "Pathani Samanta Ganita Pratibha in VI-2014",
+                                                "1st in District Level Essay Writing Competetion in VIII-2016",
+                                                "Under-16 trails",
+                                                "Ist in District Handwriting Competition",
+                                                "HSC topper in SSVM,BGH"
                                             ],
                                         },
                                         {
-                                            role: "Software Engineer",
-                                            org: "Divami Design Labs",
-                                            years: "2020 — 2021",
+                                            role: "Vikash Residential School,Bargarh",
+                                            org: "I",
+                                            years: "2009-2010",
                                             bullets: [
-                                                "Developed UI for Google CDAP pipeline using React",
-                                                "Improved page load time by 25% through code refactoring",
-                                                "Automated data migration saving 2 hours daily"
+                                                ""
                                             ],
-                                        }
+                                        },
+                                        { 
+                                            role:"A.E.Mission English Medium School,ICSE,Bargarh",
+                                            org:"Nursey-KGIII"
+                                        ],
+                                        },
                                     ].map((job) => (
                                         <div key={job.role} className="rounded-sm border border-zinc-200">
                                             <div className="flex items-center justify-between border-b border-zinc-200 bg-zinc-50 px-4 py-2">
