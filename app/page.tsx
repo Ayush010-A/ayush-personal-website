@@ -418,7 +418,7 @@ export default function Page() {
                                                 "Scholarship in V-2013",
                                                 "Pathani Samanta Ganita Pratibha in VI-2014",
                                                 "1st in District Level Essay Writing Competetion in VIII-2016",
-                                                "Under-16 trails",
+                                                "Under-16 Cricket trails",
                                                 "Ist in District Handwriting Competition",
                                                 "HSC topper in SSVM,BGH"
                                             ],
