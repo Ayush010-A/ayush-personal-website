@@ -11,7 +11,11 @@ import { cn } from "@/lib/utils"
 import { useEffect, useState } from "react"
 import { MatrixRain } from "@/components/ui/matrix-rain"
 
-const plexSerif = IBM_Plex_Serif({
+export const metadata = {
+  title: 'Ayush',
+  description: 'Personal portfolio website',
+}
+    const plexSerif = IBM_Plex_Serif({
     weight: ["400", "600", "700"],
     subsets: ["latin"],
     display: "swap",
