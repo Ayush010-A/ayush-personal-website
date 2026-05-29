@@ -401,44 +401,9 @@ export default function Page() {
                                                 "Ambidextrous"
                                             ],
                                         },
-                                        {
-                                            role: "Vikash Higher Secondary School,Bargarh",
-                                            org: "XI-XII",
-                                            years: "2019-2021",
-                                            bullets: [
-                                                "PCMB",
-                                                "92.33% in CHSE boards-XII",
-                                                ""
-                                            ],
+                                       
                                         },
-                                        {
-                                            role: "Saraswati Shishu Vidya Mandir,Odia Bibhag,Bargarh",
-                                            org: "II-X",
-                                            years: "2010-2019",
-                                            bullets: [
-                                                "Scholarship in V-2013",
-                                                "Pathani Samanta Ganita Pratibha in VI-2014",
-                                                "1st in District Level Essay Writing Competetion in VIII-2016",
-                                                "Under-16 Cricket trails",
-                                                "Ist in District Handwriting Competition",
-                                                "HSC topper in SSVM,BGH"
-                                            ],
-                                        },
-                                        {
-                                            role: "Vikash Residential School,Bargarh",
-                                            org: "I",
-                                            years: "2009-2010",
-                                            bullets: [
-                                                ""
-                                            ],
-                                        },
-                                        { 
-                                            role:"A.E.Mission English Medium School,ICSE,Bargarh",
-                                            org:"Nursey-KGIII",
-                                            years:"2006-2009",
-                                            bullets:[
-                                                ""
-                                                ],
+                                       
                                     },
                                     ].map((job) => (
                                         <div key={job.role} className="rounded-sm border border-zinc-200">
