@@ -401,8 +401,7 @@ export default function Page() {
                                                 "Ambidextrous"
                                             ],
                                         },
-                                       
-                                        },
+                                       ]
                                        
                                     },
                                     ].map((job) => (
