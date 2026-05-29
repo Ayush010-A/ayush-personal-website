@@ -401,10 +401,10 @@ export default function Page() {
                                                 "Ambidextrous"
                                             ],
                                         },
-                                       ]
                                        
-                                    },
-                                    ].map((job) => (
+                                       
+
+                                   ].map((job) => (
                                         <div key={job.role} className="rounded-sm border border-zinc-200">
                                             <div className="flex items-center justify-between border-b border-zinc-200 bg-zinc-50 px-4 py-2">
                                                 <div className="font-medium">{job.role}</div>
