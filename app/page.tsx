@@ -1,3 +1,4 @@
+import { MatrixRain } from "@/components/ui/matrix-rain";
 import Image from "next/image";
 import { ArrowDownRight, ArrowUpRight } from "lucide-react";
 
@@ -8,7 +9,10 @@ const linkStyle = "inline-flex min-h-11 items-center gap-2 font-medium underline
 
 export default function Page() {
   return (
-    <div className="min-h-screen bg-[#faf9f5] font-sans text-stone-900">
+    <div className="relative isolate min-h-screen bg-[#faf9f5] font-sans text-stone-900">
+      <div aria-hidden="true" className="pointer-events-none fixed inset-0 -z-10 opacity-20 mix-blend-multiply">
+        <MatrixRain />
+      </div>
       <a href="#main" className="sr-only focus:not-sr-only focus:absolute focus:z-10 focus:bg-white focus:p-3">
         Skip to content
       </a>
@@ -59,7 +63,7 @@ export default function Page() {
               <p>I’m pursuing a Bachelor of Computer Applications. Away from the screen, I play state-level table tennis in Odisha and enjoy learning music.</p>
               <div>
                 <h3 className="mb-1 font-semibold text-stone-900">Currently learning</h3>
-                <p>I’m practising the basics of C and data structures for my coursework. With SpacedX, I’m learning how to read an app’s source code and test it on Windows.</p>
+                <p>I’m learning JavaScript and TypeScript for web development, and Python so I can train AI models.</p>
               </div>
             </div>
           </section>
