@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: 'Ayushman Mahapatra | Student Portfolio',
-  description: 'Projects and learning notes from Ayushman Mahapatra, a BCA student in Bargarh working on SpacedX, a study revision app.',
+  description: 'Projects and learning notes from Ayushman Mahapatra, a computer science student in Bargarh developing SpacedX, a study revision app for iOS.',
 };
 
 export default function RootLayout({
