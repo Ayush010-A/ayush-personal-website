@@ -12,9 +12,9 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata = {
-  title: 'Ayush',
-  description: 'Personal portfolio website',
+export const metadata: Metadata = {
+  title: 'Ayushman Mahapatra | Student Portfolio',
+  description: 'Projects and learning notes from Ayushman Mahapatra, a BCA student in Bargarh working on SpacedX, a study revision app.',
 };
 
 export default function RootLayout({
